@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I will receive my **B.Eng. in Data Science and Big Data Technology** from Anhui University in 2026. Since December 2025, I have been a **Visiting Research Student** at the AI Research and Innovation Lab CAIRI, Westlake University, supervised by Prof. Stan Z. Li.
+I will receive my **B.Eng. in Data Science and Big Data Technology** from Anhui University in 2026. Since December 2025, I have been a **Visiting Student** at the AI Research and Innovation Lab (CAIRI), Westlake University, supervised by Prof. Stan Z. Li.
 
 My research interest includes ai for life science and multimodal learning.
 
 # 🔥 News
-- *2025.12*: 🎉 Started my research internship at Westlake University!
+- *2025.12*: 🎉 Excited to start my journey as a Visiting Student at Westlake University!
 - *2025.10*: 🎉 Excited to win the **Second Prize** at the HUICKATHON S2 AI Hackathon!
 
 # 📝 Publications 
