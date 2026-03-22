@@ -25,3 +25,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem 'pathutil', '0.16.2'
+gem "nokogiri", "~> 1.15.0"
