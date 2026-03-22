@@ -39,9 +39,11 @@ My research interest includes ai for life science and multimodal learning.
 </div>
 </div> -->
 
-- UICO: A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning, **Yeping Zhao**, Jian Ma, et al. **(TIP 2026, Under Review)**.
-- MMCap: Multi-Level Embedding for Urban Incivility Scenes Captioning via Multiway Dynamic Dense Connections, **Yeping Zhao**, Jian Ma, et al. **ISCAS 2026 (Accepted)**.
-- IncivilityCaps: A Multimodal Dataset for Image Captioning in Urban Incivility Scenes, **Yeping Zhao**, Jian Ma, et al. **ICSIP 2025 (*Oral Presentation*)**.
+- UICO: A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning. **Yeping Zhao**, Jian Ma, et al. **(TIP 2026, Under Review)**.
+- DR-Diff: Spatiotemporally Aware Dual Residual-Guided Diffusion Model for Infrared Image Super-Resolution. Jinghan Wang, Jian Ma, **Yeping Zhao**, Linsheng Huang. **(Submitted)**.
+- MMCap: Multi-Level Embedding for Urban Incivility Scenes Captioning via Multiway Dynamic Dense Connections. **Yeping Zhao**, Jian Ma, et al. **ISCAS 2026 (Accepted)**.
+- A Modified GeoCalib-Based Method for Single-Image Camera Calibration. Zicheng Ni, Wenhao Huang, Jian Ma, Sheng Chen, Wenhao Lu, Chuanhang Ni, **Yeping Zhao**. **AIIPCV, 2025 (*Oral Presentation*)**. 
+- IncivilityCaps: A Multimodal Dataset for Image Captioning in Urban Incivility Scenes. **Yeping Zhao**, Jian Ma, et al. **ICSIP 2025 (*Oral Presentation*)**.
 
 # 🎖 Honors and Awards
 - *2025.10* HUICKATHON S2 Global AI Hackathon, 2025, Second Price.
