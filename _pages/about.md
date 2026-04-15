@@ -19,7 +19,7 @@ redirect_from:
 
 I will receive my **B.Eng. in Data Science and Big Data Technology** from Anhui University in 2026. Since December 2025, I have been a **Visiting Student** at the Center for Artificial Intelligence Research and Innovation (CAIRI), Westlake University, under the supervision of [Zelin Zang](https://scholar.google.com/citations?hl=zh-CN&user=foERjnQAAAAJ&view_op=list_works&citft=1&email_for_op=zyp2606841563%40gmail.com&gmla=AElLoL2mSF-EZlCJcaXsU7juqHM9Z_4wVnVWxhxIy6TA3YLWt6NRlVyVFEFhurfNhtKIiBv7JXe9x8rkss7SegLMQl9pxQANNEVMEa8IbLilUv2d6nsGtMOKHt_8Mn0_WSia4gtIIdZf38wiJIfyXBzR-vPpxpXp5Vl9Bb2mshz6axN3OeyG_G7nVFZfKRIGZRNz2JkdUKVSle6q3gztAqZCmF8KxosaDVPCZvQ41zQm2IK6E4-uOjgl_lL5Fv2aRg) and [Stan Z. Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ&view_op=list_works&sortby=pubdate).
 
-My research interest includes multimodal learning and ai for life science.
+My research interest includes representation learning, multimodal learning and ai for science.
 
 # 🔥 News
 - *2025.12*: 🎉 Excited to start my journey as a Visiting Student at Westlake University!
