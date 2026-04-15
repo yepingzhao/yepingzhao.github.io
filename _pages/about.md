@@ -39,6 +39,7 @@ My research interest includes multimodal learning and ai for life science.
 </div>
 </div> -->
 
+- Frequency-assisted Hybrid Transformer for Light Field Image Super-Resolution. Jian Ma, Ping An, **Yeping Zhao**, et al. **(TCSVT 2026, Under Review)**.
 - UICO: A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning. **Yeping Zhao**, Jian Ma, et al. **(TCSVT 2026, Under Review)**.
 - DR-Diff: Spatiotemporally Aware Dual Residual-Guided Diffusion Model for Infrared Image Super-Resolution. Jinghan Wang, Jian Ma, **Yeping Zhao**, Linsheng Huang. **(Submitted)**.
 - MMCap: Multi-Level Embedding for Urban Incivility Scenes Captioning via Multiway Dynamic Dense Connections. **Yeping Zhao**, Jian Ma, et al. **ISCAS 2026 (Accepted)**.
