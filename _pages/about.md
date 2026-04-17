@@ -23,7 +23,7 @@ My research interest includes representation learning, multimodal learning and a
 
 # 🔥 News
 - *2025.12*: 🎉 Excited to start my journey as a Visiting Student at Westlake University!
-- *2025.10*: 🎉 Excited to win the **Second Prize** at the Huickathon S2 · 48-Hour AI Hackathon!
+- *2025.10*: 🎉 Excited to win the **Second Prize** at the [Huickathon S2 · 48-Hour AI Hackathon]((https://mp.weixin.qq.com/s/TBZBiFmxVX4jkLBgZ_b7Tg))!
 
 # 📝 Publications 
 
@@ -43,11 +43,11 @@ My research interest includes representation learning, multimodal learning and a
 - UICO: A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning. **Yeping Zhao**, Jian Ma, et al. **(TCSVT 2026, Under Review)**.
 - DR-Diff: Spatiotemporally Aware Dual Residual-Guided Diffusion Model for Infrared Image Super-Resolution. Jinghan Wang, Jian Ma, **Yeping Zhao**, Linsheng Huang. **(Submitted)**.
 - MMCap: Multi-Level Embedding for Urban Incivility Scenes Captioning via Multiway Dynamic Dense Connections. **Yeping Zhao**, Jian Ma, et al. **ISCAS 2026 (Accepted)**.
-- A Modified GeoCalib-Based Method for Single-Image Camera Calibration. Zicheng Ni, Wenhao Huang, Jian Ma, Sheng Chen, Wenhao Lu, Chuanhang Ni, **Yeping Zhao**. **AIIPCV, 2025 (*Oral Presentation*)**. 
-- IncivilityCaps: A Multimodal Dataset for Image Captioning in Urban Incivility Scenes. **Yeping Zhao**, Jian Ma, et al. **ICSIP 2025 (*Oral Presentation*)**.
+- [A Modified GeoCalib-Based Method for Single-Image Camera Calibration](https://ieeexplore.ieee.org/abstract/document/11405632). Zicheng Ni, Wenhao Huang, Jian Ma, Sheng Chen, Wenhao Lu, Chuanhang Ni, **Yeping Zhao**. **AIIPCV, 2025 (*Oral Presentation*)**. 
+- [IncivilityCaps: A Multimodal Dataset for Image Captioning in Urban Incivility Scenes](https://ieeexplore.ieee.org/abstract/document/11171515). **Yeping Zhao**, Jian Ma, et al. **ICSIP 2025 (*Oral Presentation*)**.
 
 # 🎖 Honors and Awards
-- *2025.10* Huickathon S2 · 48-Hour AI Hackathon, 2025, Second Price.
+- *2025.10* [Huickathon S2 · 48-Hour AI Hackathon](https://mp.weixin.qq.com/s/TBZBiFmxVX4jkLBgZ_b7Tg), 2025, Second Price.
 - *2024.12* Award of Academic Excellence for the 2023/24 academic year, Anhui University, Second Price.
 - *2024.04* China Undergraduate Mathematical Contest in Modeling, Anhui Division, Second Price.
 - *2023.12* Award of Academic Excellence for the 2022/23 academic year, Anhui University, Third Price.
