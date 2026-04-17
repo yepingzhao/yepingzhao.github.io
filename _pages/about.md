@@ -23,7 +23,7 @@ My research interest includes representation learning, multimodal learning and a
 
 # 🔥 News
 - *2025.12*: 🎉 Excited to start my journey as a Visiting Student at Westlake University!
-- *2025.10*: 🎉 Excited to win the **Second Prize** at the [Huickathon S2 · 48-Hour AI Hackathon]((https://mp.weixin.qq.com/s/TBZBiFmxVX4jkLBgZ_b7Tg))!
+- *2025.10*: 🎉 Excited to win the **Second Prize** at the [Huickathon S2 · 48-Hour AI Hackathon](https://mp.weixin.qq.com/s/TBZBiFmxVX4jkLBgZ_b7Tg)!
 
 # 📝 Publications 
 
