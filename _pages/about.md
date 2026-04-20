@@ -58,7 +58,7 @@ My research interest includes representation learning, multimodal learning and a
 - *2024.07 - 2024.07*, Summer School, Peking University, Beijing, China.
 
 # 💬 Invited Talks
-- *2025.07*, Oral Presentation, International Conference on Intelligent Signal Processing (ICSIP), Wuxi, China. 
+- *2025.07*, Oral Presentation, [International Conference on Intelligent Signal Processing (ICSIP)](https://icsip.org/2025.html), Wuxi, China. 
 
 # 💻 Internships
 - *2025.12 - present*, Visiting Student, Westlake University, Hangzhou, China.
