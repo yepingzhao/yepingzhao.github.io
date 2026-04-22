@@ -34,7 +34,7 @@ A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning
 
 **Yeping Zhao<sup>†</sup>**, Jian Ma<sup>†</sup>, Ping An, Linsheng Huang
 
-TCSVT 2026, Under Review
+**TCSVT 2026 (Under Review)**
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -42,11 +42,12 @@ TCSVT 2026, Under Review
 </div>
 </div>
 
-- Frequency-assisted Hybrid Transformer for Light Field Image Super-Resolution. Jian Ma, Ping An, **Yeping Zhao**, et al. **(TCSVT 2026, Under Review)**.
+- Frequency-assisted Hybrid Transformer for Light Field Image Super-Resolution. Jian Ma, Ping An, **Yeping Zhao**, et al. **TCSVT 2026 (Under Review)**.
 <!-- - UICO: A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning. **Yeping Zhao**, Jian Ma, et al. **(TCSVT 2026, Under Review)**. -->
+- FMDL-Net: Fourier Modulation and Dynamic Mixing for Light Field Image Super-Resolution. **Optics Letters (Under Review)**
 - DR-Diff: Spatiotemporally Aware Dual Residual-Guided Diffusion Model for Infrared Image Super-Resolution. Jinghan Wang, Jian Ma, **Yeping Zhao**, Linsheng Huang. **(Submitted)**.
 - MMCap: Multi-Level Embedding for Urban Incivility Scenes Captioning via Multiway Dynamic Dense Connections. **Yeping Zhao**, Jian Ma, et al. **ISCAS 2026 (Accepted)**.
-- [A Modified GeoCalib-Based Method for Single-Image Camera Calibration](https://ieeexplore.ieee.org/abstract/document/11405632). Zicheng Ni, Wenhao Huang, Jian Ma, Sheng Chen, Wenhao Lu, Chuanhang Ni, **Yeping Zhao**. **AIIPCV, 2025 (*Oral Presentation*)**. 
+- [A Modified GeoCalib-Based Method for Single-Image Camera Calibration](https://ieeexplore.ieee.org/abstract/document/11405632). Zicheng Ni, Wenhao Huang, Jian Ma, Sheng Chen, Wenhao Lu, Chuanhang Ni, **Yeping Zhao**. **AIIPCV 2025 (*Oral Presentation*)**. 
 - [IncivilityCaps: A Multimodal Dataset for Image Captioning in Urban Incivility Scenes](https://ieeexplore.ieee.org/abstract/document/11171515). **Yeping Zhao**, Jian Ma, et al. **ICSIP 2025 (*Oral Presentation*)**.
 
 # 🎖 Honors and Awards
