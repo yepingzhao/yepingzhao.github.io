@@ -51,7 +51,7 @@ A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning
 - ``ICSIP 2025`` <span style="color:red">(Oral)</span> [IncivilityCaps: A Multimodal Dataset for Image Captioning in Urban Incivility Scenes](https://ieeexplore.ieee.org/abstract/document/11171515). **Yeping Zhao**, Jian Ma, et al.
 
 # 🎖 Honors and Awards
-- *2024.03* [Outstanding Graduate of Anhui University](https://job.ahu.edu.cn/2026/0325/c25015a388125/page.htm)
+- *2026.03* [Outstanding Graduate of Anhui University](https://job.ahu.edu.cn/2026/0325/c25015a388125/page.htm)
 - *2025.10* [Huickathon S2 · 48-Hour AI Hackathon](https://mp.weixin.qq.com/s/TBZBiFmxVX4jkLBgZ_b7Tg), Second Price.
 - *2024.12* Award of Academic Excellence for the 2023/24 academic year, Anhui University, Second Price.
 - *2024.04* China Undergraduate Mathematical Contest in Modeling, Anhui Division, Second Price.
