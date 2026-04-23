@@ -45,7 +45,7 @@ A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning
 - Frequency-assisted Hybrid Transformer for Light Field Image Super-Resolution. Jian Ma, Ping An, **Yeping Zhao**, et al. **TCSVT 2026 (Under Review)**.
 <!-- - UICO: A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning. **Yeping Zhao**, Jian Ma, et al. **(TCSVT 2026, Under Review)**. -->
 - FMDL-Net: Fourier Modulation and Dynamic Mixing for Light Field Image Super-Resolution. **Optics Letters (Under Review)**
-- DR-Diff: Spatiotemporally Aware Dual Residual-Guided Diffusion Model for Infrared Image Super-Resolution. Jinghan Wang, Jian Ma, **Yeping Zhao**, Linsheng Huang. **(Submitted)**.
+- DR-Diff: Spatiotemporally Aware Dual Residual-Guided Diffusion Model for Infrared Image Super-Resolution. Jinghan Wang, Jian Ma, **Yeping Zhao**, Linsheng Huang. **(Under Review)**.
 - MMCap: Multi-Level Embedding for Urban Incivility Scenes Captioning via Multiway Dynamic Dense Connections. **Yeping Zhao**, Jian Ma, et al. **ISCAS 2026 (Accepted)**.
 - [A Modified GeoCalib-Based Method for Single-Image Camera Calibration](https://ieeexplore.ieee.org/abstract/document/11405632). Zicheng Ni, Wenhao Huang, Jian Ma, Sheng Chen, Wenhao Lu, Chuanhang Ni, **Yeping Zhao**. **AIIPCV 2025 (*Oral Presentation*)**. 
 - [IncivilityCaps: A Multimodal Dataset for Image Captioning in Urban Incivility Scenes](https://ieeexplore.ieee.org/abstract/document/11171515). **Yeping Zhao**, Jian Ma, et al. **ICSIP 2025 (*Oral Presentation*)**.
