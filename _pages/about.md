@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I will receive my **B.Eng. in Data Science and Big Data Technology** from Anhui University in 2026. Since December 2025, I have been a **Visiting Student** at the Center for Artificial Intelligence Research and Innovation (CAIRI), Westlake University, under the supervision of [Zelin Zang](https://zangzelin.github.io/) and [Stan Z. Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html).
+I will receive my **B.Eng. in Data Science and Big Data Technology** from [Anhui University](https://www.ahu.edu.cn/main.htm) in 2026. Since December 2025, I have been a **Visiting Student** at the Center for Artificial Intelligence Research and Innovation (CAIRI), [Westlake University](https://www.westlake.edu.cn/), under the supervision of [Zelin Zang](https://zangzelin.github.io/) and [Stan Z. Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html).
 
 My research interest includes representation learning, multimodal learning and ai for science.
 
@@ -27,14 +27,14 @@ My research interest includes representation learning, multimodal learning and a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pub/uico.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/pub/uico.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning
 
 **Yeping Zhao<sup>†</sup>**, Jian Ma<sup>†</sup>, Ping An, Linsheng Huang
 
-**TCSVT 2026 (Under Review)**
+**(TCSVT 2026 Under Review)**
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -42,11 +42,11 @@ A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning
 </div>
 </div>
 
-- ``TCSVT 2026`` Frequency-assisted Hybrid Transformer for Light Field Image Super-Resolution. Jian Ma, Ping An, **Yeping Zhao**, et al. **(Under Review)**
+- ``Preprint`` Frequency-assisted Hybrid Transformer for Light Field Image Super-Resolution. Jian Ma, Ping An, **Yeping Zhao**, et al. **(TCSVT 2026 Under Review)**
 <!-- - UICO: A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning. **Yeping Zhao**, Jian Ma, et al. **(TCSVT 2026, Under Review)**. -->
-- ``Optics Letters`` FMDL-Net: Fourier Modulation and Dynamic Mixing for Light Field Image Super-Resolution. **(Under Review)**
-- DR-Diff: Spatiotemporally Aware Dual Residual-Guided Diffusion Model for Infrared Image Super-Resolution. Jinghan Wang, Jian Ma, **Yeping Zhao**, Linsheng Huang. **(Under Review)**
-- ``ISCAS 2026`` MMCap: Multi-Level Embedding for Urban Incivility Scenes Captioning via Multiway Dynamic Dense Connections. **Yeping Zhao**, Jian Ma, et al. **(Accepted)**
+- ``Preprint`` FMDL-Net: Fourier Modulation and Dynamic Mixing for Light Field Image Super-Resolution. **(Optics Letters Under Review)**
+- ``Preprint`` DR-Diff: Spatiotemporally Aware Dual Residual-Guided Diffusion Model for Infrared Image Super-Resolution. Jinghan Wang, Jian Ma, **Yeping Zhao**, Linsheng Huang. **(Under Review)**
+- ``ISCAS 2026`` MMCap: Multi-Level Embedding for Urban Incivility Scenes Captioning via Multiway Dynamic Dense Connections. **Yeping Zhao**, Jian Ma, et al.
 - ``AIIPCV 2025`` <span style="color:red">(Oral)</span> [A Modified GeoCalib-Based Method for Single-Image Camera Calibration](https://ieeexplore.ieee.org/abstract/document/11405632). Zicheng Ni, Wenhao Huang, Jian Ma, Sheng Chen, Wenhao Lu, Chuanhang Ni, **Yeping Zhao**.
 - ``ICSIP 2025`` <span style="color:red">(Oral)</span> [IncivilityCaps: A Multimodal Dataset for Image Captioning in Urban Incivility Scenes](https://ieeexplore.ieee.org/abstract/document/11171515). **Yeping Zhao**, Jian Ma, et al.
 
