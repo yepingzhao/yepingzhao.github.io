@@ -52,7 +52,7 @@ A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning
 
 # 🎖 Honors and Awards
 - *2026.03* [Outstanding Graduate of Anhui University](https://job.ahu.edu.cn/2026/0325/c25015a388125/page.htm)
-- *2025.10* [Huickathon S2 · 48-Hour AI Hackathon](https://mp.weixin.qq.com/s/TBZBiFmxVX4jkLBgZ_b7Tg), Second Prize. (¥ 2,000)
+- *2025.10* [Huickathon S2 · 48-Hour AI Hackathon](https://mp.weixin.qq.com/s/TBZBiFmxVX4jkLBgZ_b7Tg), Second Prize. (CNY 2,000)
 - *2024.12* Award of Academic Excellence for the 2023/24 academic year, Anhui University, Second Prize.
 - *2024.04* China Undergraduate Mathematical Contest in Modeling, Anhui Division, Second Prize.
 - *2023.12* Award of Academic Excellence for the 2022/23 academic year, Anhui University, Third Prize.
