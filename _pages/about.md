@@ -58,7 +58,7 @@ A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning
 - *2023.12* Award of Academic Excellence for the 2022/23 academic year, Anhui University, Third Prize.
 
 # 💰 Funding
-- *2025.05* [National Innovation and Entrepreneurship Training Program for Undergraduate](https://cxcy.ahu.edu.cn/2025/0520/c23531a365791/page.htm) (Chery Modern Automobile Industry College Special Program, Project Lead, CNY 12,000)
+- *2025.05* [National Innovation and Entrepreneurship Training Program for Undergraduate](https://cxcy.ahu.edu.cn/2025/0520/c23531a365791/page.htm). (Chery Modern Automobile Industry College Special Program, Project Lead, CNY 12,000)
 
 # 📖 Educations
 - *2022.09 - present*, Undergraduate, School of Internet, Anhui Univeristy, Hefei. 
