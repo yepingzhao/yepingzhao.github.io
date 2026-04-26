@@ -52,13 +52,13 @@ A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning
 
 # 🎖 Honors and Awards
 - *2026.03* [Outstanding Graduate of Anhui University](https://job.ahu.edu.cn/2026/0325/c25015a388125/page.htm)
-- *2025.10* [Huickathon S2 · 48-Hour AI Hackathon](https://mp.weixin.qq.com/s/TBZBiFmxVX4jkLBgZ_b7Tg), Second Prize. (CNY 2,000)
-- *2024.12* Award of Academic Excellence for the 2023/24 academic year, Anhui University, Second Prize.
-- *2024.04* China Undergraduate Mathematical Contest in Modeling, Anhui Division, Second Prize.
-- *2023.12* Award of Academic Excellence for the 2022/23 academic year, Anhui University, Third Prize.
+- *2025.10* [Huickathon S2 · 48-Hour AI Hackathon](https://mp.weixin.qq.com/s/TBZBiFmxVX4jkLBgZ_b7Tg), **Second Prize**. <span style="color:skyblue">**(CNY 2,000)**</span>
+- *2024.12* Award of Academic Excellence for the 2023/24 academic year, Anhui University, **Second Prize**.
+- *2024.04* China Undergraduate Mathematical Contest in Modeling, Anhui Division, Second **Prize**.
+- *2023.12* Award of Academic Excellence for the 2022/23 academic year, Anhui University, **Third Prize**.
 
 # 💰 Funding
-- *2025.05* [National Innovation and Entrepreneurship Training Program for Undergraduate](https://cxcy.ahu.edu.cn/2025/0520/c23531a365791/page.htm). (Chery Modern Automobile Industry College Special Program, Project Lead, CNY 12,000)
+- *2025.05* [National Innovation and Entrepreneurship Training Program for Undergraduate](https://cxcy.ahu.edu.cn/2025/0520/c23531a365791/page.htm). <span style="color:skyblue">**(Chery Modern Automobile Industry College Special Program, Project Lead, CNY 12,000)**</span>
 
 # 📖 Educations
 - *2022.09 - present*, Undergraduate, School of Internet, Anhui Univeristy, Hefei. 
