@@ -70,4 +70,4 @@ UICO: A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captio
 - *2025.07*, Oral Presentation, [International Conference on Intelligent Signal Processing (ICSIP)](https://icsip.org/2025.html), Wuxi, China. 
 
 # 💻 Internships
-- *2025.12 - present*, Visiting Student, Westlake University, Hangzhou, China.
+- *2025.12 - present (2025.06)*, Visiting Student, Westlake University, Hangzhou, China.
