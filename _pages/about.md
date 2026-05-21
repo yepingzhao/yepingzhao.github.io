@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I will receive my **B.Eng. in Data Science and Big Data Technology** from [Anhui University](https://www.ahu.edu.cn/main.htm) in 2026. Since December 2025, I have been a **Visiting Student** at the Center for Artificial Intelligence Research and Innovation (CAIRI), [Westlake University](https://www.westlake.edu.cn/).
-<!-- , under the supervision of [Zelin Zang](https://zangzelin.github.io/) and [Stan Z. Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html). -->
+I will receive my **B.Eng. in Data Science and Big Data Technology** from [Anhui University](https://www.ahu.edu.cn/main.htm) in 2026. Since December 2025, I have been a **Visiting Student** at the Center for Artificial Intelligence Research and Innovation (CAIRI), [Westlake University](https://www.westlake.edu.cn/), under the supervision of [Stan Z. Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html) and [Zelin Zang](https://zangzelin.github.io/).
 
 My research interest includes representation learning, multimodal learning and ai for science.
 
