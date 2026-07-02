@@ -17,36 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my B.E. in Data Science and Big Data Technology from [Anhui University](https://www.ahu.edu.cn/main.htm) in 2026.6. 
+# 😄 About Me
+
+I received my B.E. degree in Data Science and Big Data Technology from [Anhui University](https://www.ahu.edu.cn/main.htm) in June 2026.
 <!-- Since December 2025, I have been a **Visiting Student** at the Center for Artificial Intelligence Research and Innovation (CAIRI), [Westlake University](https://www.westlake.edu.cn/), under the supervision of [Stan Z. Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html) and [Zelin Zang](https://zangzelin.github.io/). -->
 
-My research interest includes representation learning, multimodal learning,  and ai for science.
+My research interests include representation learning, multimodal learning, and AI for Science.
 
-Feel free to contact me for academic and research discussions. Please drop me an email at @westlake.edu.cn.
+Feel free to reach out if you are interested in discussing research or potential collaborations.
 
-<span style="color:red">I am actively seeking 27 Spring or 27 Fall PhD opportunities!</span>
-
+<span style="color:red">I am actively seeking PhD opportunities starting in Spring or Fall 2027.</span>
 
 # 🔥 News
 - *2025.12*: 🎉 Excited to start my journey as a Visiting Student at Westlake University!
 - *2025.10*: 🎉 Excited to win the **Second Prize** at the [Huickathon S2 · 48-Hour AI Hackathon](https://mp.weixin.qq.com/s/TBZBiFmxVX4jkLBgZ_b7Tg)!
 
 # 📝 Publications 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/pub/uico.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-UICO: A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captioning
-
-**Yeping Zhao<sup>†</sup>**, Jian Ma<sup>†</sup>, Ping An, Linsheng Huang
-
-**(TCSVT 2026 Under Review)**
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-</div>
-</div> -->
 
 - ``Major Revision`` Frequency-assisted Hybrid Transformer for Light Field Image Super-Resolution. Jian Ma, Ping An, **Yeping Zhao**, et al. **(TCSVT 2026, Major Revision)**
 - ``Optics Letters`` [FMDL-Net: Fourier Modulation and Dynamic Mixing for Light Field Image Super-Resolution](https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.600424). Jian Ma, Haiyang Liu, Ping An, **Yeping Zhao**, et al.
@@ -55,23 +41,18 @@ UICO: A Dataset and UIFormer Framework for Context-Aware Urban Incivility Captio
 - ``ICSIP 2025`` <span style="color:red">(Oral)</span> [IncivilityCaps: A Multimodal Dataset for Image Captioning in Urban Incivility Scenes](https://ieeexplore.ieee.org/abstract/document/11171515). **Yeping Zhao**, Jian Ma, et al.
 - ``Preprint`` Urban Incivility Captioning: The UICO Benchmark and UIFormer for Civic Scene Understanding. **Yeping Zhao**, Jian Ma, et al. **(TMM 2026, Under Review)**.
 
-# 🎖 Honors and Awards
-- *2026.03* [Outstanding Graduate of Anhui University](https://job.ahu.edu.cn/2026/0325/c25015a388125/page.htm)
-- *2025.10* [Huickathon S2 · 48-Hour AI Hackathon](https://mp.weixin.qq.com/s/TBZBiFmxVX4jkLBgZ_b7Tg), **Second Prize**. <span style="color:skyblue">**(CNY 2,000)**</span>
-- *2024.12* China Undergraduate Mathematical Contest in Modeling, Anhui Division, **Second Prize**.
-- *2024.12* Award of Academic Excellence for the 2023/24 academic year, Anhui University, **Second Prize**.
-- *2023.12* Award of Academic Excellence for the 2022/23 academic year, Anhui University, **Third Prize**.
+# 💻 Experiences
+- *2025.12 - 2026.06*, Visiting Student, Westlake University, Hangzhou, China.
 
 # 💰 Funding
-- *2025.05* [National Innovation and Entrepreneurship Training Program for Undergraduate](https://cxcy.ahu.edu.cn/2025/0520/c23531a365791/page.htm). <span style="color:skyblue">**(Chery Modern Automobile Industry College Special Program, Project Lead, CNY 12,000)**</span>
+- *2025.05 - 2026.05* [National Innovation and Entrepreneurship Training Program for Undergraduate (Chery Modern Automobile Industry College Special Program)](https://cxcy.ahu.edu.cn/2025/0520/c23531a365791/page.htm), Project Lead, <span style="color:skyblue">**CNY 12,000**</span>
+
+# 🎖 Honors and Awards
+- *2026.03* [Outstanding Graduate](https://job.ahu.edu.cn/2026/0325/c25015a388125/page.htm), Anhui University.
+- *2025.10* [Huickathon S2 · 48-Hour AI Hackathon](https://mp.weixin.qq.com/s/TBZBiFmxVX4jkLBgZ_b7Tg), **Second Prize**. <span style="color:skyblue">**(CNY 2,000)**</span>
+- *2024.12* China Undergraduate Mathematical Contest in Modeling, Anhui Division, **Second Prize**.
+- *2024.12* Academic Excellence Scholarship (**Second Prize**), Anhui University.
+- *2023.12* Academic Excellence Scholarship (**Third Prize**), Anhui University.
 
 # 📖 Educations
-- *2022.09 - present*, Undergraduate, School of Internet, Anhui Univeristy, Hefei. 
-- *2025.07 - 2025.08*, Summer School, The University of Hong Kong, Hong Kong, China.
-- *2024.07 - 2024.07*, Summer School, Peking University, Beijing, China.
-
-# 💬 Invited Talks
-- *2025.07*, Oral Presentation, [International Conference on Intelligent Signal Processing (ICSIP)](https://icsip.org/2025.html), Wuxi, China. 
-
-# 💻 Internships
-- *2025.12 - present (2025.06)*, Visiting Student, Westlake University, Hangzhou, China.
+- *2022.09 - 2026.06*, B.E. in Data Science and Big Data Technology, School of Internet, Anhui University, Hefei, China.

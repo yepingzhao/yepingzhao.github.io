@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yeping Zhao"
-description              : "Per aspera ad astra"
+description              : "Per aspera ad astra."
 repository               : "yepingzhao/yepingzhao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yeping Zhao (赵叶平)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Anhui University"
-  location         : "Anhui, China"
+  location         : "Hefei, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
