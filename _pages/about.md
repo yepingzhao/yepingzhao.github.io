@@ -20,7 +20,12 @@ redirect_from:
 I received my B.E. in Data Science and Big Data Technology from [Anhui University](https://www.ahu.edu.cn/main.htm) in 2026.6. 
 <!-- Since December 2025, I have been a **Visiting Student** at the Center for Artificial Intelligence Research and Innovation (CAIRI), [Westlake University](https://www.westlake.edu.cn/), under the supervision of [Stan Z. Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html) and [Zelin Zang](https://zangzelin.github.io/). -->
 
-<!-- My research interest includes representation learning, multimodal learning and ai for science. -->
+My research interest includes representation learning, multimodal learning,  and ai for science.
+
+Feel free to contact me for academic and research discussions. Please drop me an email at @westlake.edu.cn.
+
+<span style="color:red">I am actively seeking 27 Spring or 27 Fall PhD opportunities!</span>
+
 
 # 🔥 News
 - *2025.12*: 🎉 Excited to start my journey as a Visiting Student at Westlake University!
