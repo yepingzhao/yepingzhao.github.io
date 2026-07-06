@@ -35,28 +35,27 @@ Feel free to contact me if you are interested in discussing research or potentia
 
 - **Frequency-assisted Hybrid Transformer for Light Field Image Super-Resolution**  
   Jian Ma, Ping An, **Yeping Zhao**, et al.
-  
-  *IEEE TCSVT 2026* (Major Revision)
+  <br>*IEEE TCSVT 2026* (Major Revision)
 
 - **[FMDL-Net: Fourier Modulation and Dynamic Mixing for Light Field Image Super-Resolution](https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.600424)**  
   Jian Ma, Haiyang Liu, Ping An, **Yeping Zhao**, et al.
-  *Optics Letters*
+  <br>*Optics Letters*
 
 - **[MMCap: Multi-Level Embedding for Urban Incivility Scenes Captioning via Multiway Dynamic Dense Connections](https://ieeexplore.ieee.org/document/11562184)**  
   **Yeping Zhao**, Jian Ma, et al.
-  *IEEE ISCAS 2026*
+  <br>*IEEE ISCAS 2026* (CCFB)
 
 - **[A Modified GeoCalib-Based Method for Single-Image Camera Calibration](https://ieeexplore.ieee.org/abstract/document/11405632)**  
   Zicheng Ni, Wenhao Huang, Jian Ma, Sheng Chen, Wenhao Lu, Chuanhang Ni, **Yeping Zhao**.
-  *AIIPCV 2025* <span style="color:red">(Oral)</span>
+  <br>*AIIPCV 2025* (<span style="color:red">Oral</span>)
 
 - **[IncivilityCaps: A Multimodal Dataset for Image Captioning in Urban Incivility Scenes](https://ieeexplore.ieee.org/abstract/document/11171515)**  
   **Yeping Zhao**, Jian Ma, et al.
-  *ICSIP 2025* <span style="color:red">(Oral)</span>
+  <br>*ICSIP 2025* (<span style="color:red">Oral</span>)
 
 - **Urban Incivility Captioning: The UICO Benchmark and UIFormer for Civic Scene Understanding**  
   **Yeping Zhao**, Jian Ma, et al.
-  *IEEE TMM 2026* (Under Review)
+  <br>*IEEE TMM 2026* (Under Review)
 
 # 💻 Experience
 - *Dec. 2025 – Jun. 2026*
