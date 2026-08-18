@@ -26,7 +26,7 @@ My research interests include representation learning, multimodal learning, and 
 
 Feel free to contact me if you are interested in discussing research or potential collaborations.
 
-<span style="color:red">I am actively seeking PhD opportunities starting in Spring or Fall 2027.</span>
+<!-- <span style="color:red">I am actively seeking PhD opportunities starting in Spring or Fall 2027.</span> -->
 
 # 🔥 News
 - *Dec. 2025*: 🎉 Visiting Student at CAIRI, Westlake University
