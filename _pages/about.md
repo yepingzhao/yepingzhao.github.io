@@ -61,9 +61,9 @@ Feel free to contact me if you are interested in discussing research or potentia
   <br>*IEEE TMM 2026* (Under Review)
 
 # 💻 Experience
-- *Dec. 2025 – Jun. 2026*
+- *Dec. 2025 – Present*
   - Visiting Student, CAIRI, Westlake University, Hangzhou, China
-  - Working on single-cell data generation
+  - Research on AI for single-cell biology and AI scientists
   - Supervisors: [Prof. Stan Z. Li (IEEE Fellow)](https://www.westlake.edu.cn/faculty/stan-zq-li.html), [Dr. Zelin Zang](https://zangzelin.github.io/)
 
 # 💰 Funded Projects
