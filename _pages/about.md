@@ -20,6 +20,9 @@ redirect_from:
 # 😄 About Me
 
 I received my B.E. degree in Data Science and Big Data Technology from [Anhui University](https://www.ahu.edu.cn/main.htm) in Jun. 2026.
+
+I am an incoming Ph.D. student at [Westlake University](https://www.westlake.edu.cn/) (Fall 2027), advised by [Prof. Stan Z. Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html).
+
 <!-- Since December 2025, I have been a **Visiting Student** at the Center for Artificial Intelligence Research and Innovation (CAIRI), [Westlake University](https://www.westlake.edu.cn/), under the supervision of [Stan Z. Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html) and [Zelin Zang](https://zangzelin.github.io/). -->
 
 My research interests include representation learning, multimodal learning, and AI for Science.
