@@ -33,9 +33,9 @@ Feel free to contact me if you are interested in discussing research or potentia
 
 # 📝 Publications 
 
-- **Frequency-assisted Hybrid Transformer for Light Field Image Super-Resolution**  
+- **[Frequency-assisted Hybrid Transformer for Light Field Image Super-Resolution](https://doi.org/10.1109/TCSVT.2026.3735932)**  
   Jian Ma, Ping An, **Yeping Zhao**, et al.
-  <br>*IEEE TCSVT 2026* (Major Revision)
+  <br>*IEEE TCSVT 2026*
 
 - **[FMDL-Net: Fourier Modulation and Dynamic Mixing for Light Field Image Super-Resolution](https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.600424)**  
   Jian Ma, Haiyang Liu, Ping An, **Yeping Zhao**, et al.
